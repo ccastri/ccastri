@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ccastri&label=Profile%20views&color=0e75b6&style=flat" alt="ccastri" /> </p>
 
-- 🔭 I’m currently working on **The Joker Company**
+- 🔭 I’m currently working as **Freelancer**
 
 - 🌱 I’m currently learning **NextJS, typescript and FastAPI**
 
@@ -16,13 +16,13 @@
 
 - 💬 Ask me about **Typescript, Javascript, Python**
 
-- 📫 How to reach me **camilocastrillon10@gmail.com**
+- 📫 How to reach me **ccastri.dev333@gmail.com**
 
-- ⚡ Fun fact **I never intended to be a programmer right before thinking in help people with Alzheimer to be early diagnosed for improving their weel being and traetment**
+- ⚡ Fun fact **I had never intended to be a programmer right before thinking about helping people with Alzheimer to be early diagnosed for improving their well being, traetment and quality of life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/camilo castrillon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo castrillon" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/camilo-castrillonn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="camilo castrillon" height="30" width="40" /></a>
 <a href="https://instagram.com/ccastri__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="no.caller__id" height="30" width="40" /></a>
 </p>
 
