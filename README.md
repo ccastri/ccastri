@@ -10,15 +10,15 @@
 
 - 🌱 I’m currently learning **NextJS, typescript and FastAPI**
 
-- 👯 I’m looking to collaborate on [AmnesIA](https://github.com/ccastri/AlzheimerDisease-3DCNN-Classifier)
+- 👯 I’m looking to collaborate on projects for the healthcare industry
 
 - 👨‍💻 All of my projects are available at [https://github.com/ccastri](https://github.com/ccastri)
 
-- 💬 Ask me about **react, Angular, Keras, Scikit-learn**
+- 💬 Ask me about **Typescript, Javascript, Python**
 
 - 📫 How to reach me **camilocastrillon10@gmail.com**
 
-- ⚡ Fun fact **I went viral on 2021 for doing an ig live </br> during social protest in my country and I was at the first line recording**
+- ⚡ Fun fact **I never intended to be a programmer right before thinking in help people with Alzheimer to be early diagnosed for improving their weel being and traetment**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
