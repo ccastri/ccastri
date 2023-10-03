@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **NextJS, typescript and FastAPI**
+- 🌱 I’m currently learning **Unity and HL7 FHIR**
 
-- 👯 I’m looking to collaborate on projects for the healthcare industry
+- 👯 I’m looking to collaborate on interoperability in the healthcare industry
 
 - 👨‍💻 All of my projects are available at [https://github.com/ccastri](https://github.com/ccastri)
 
-- 💬 Ask me about **Typescript, Javascript, Python**
+- 💬 Ask me about **Typescript, Javascript, Python, AI, 3D design, processing and modeling**
 
 - 📫 How to reach me **ccastri.dev333@gmail.com**
 
