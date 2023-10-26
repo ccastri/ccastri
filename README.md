@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working as **Freelancer**
 
-- 🌱 I’m currently learning **Unity and HL7 FHIR**
+- 🌱 I’m currently learning **Unity and HL7 FHIR and LLM data processing**
 
 - 👯 I’m looking to collaborate on interoperability in the healthcare industry
 
